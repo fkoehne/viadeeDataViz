@@ -2,7 +2,9 @@
 
 Idee: Wir generalisieren typische Visualisierungen, aus den Data-Mining-POCs und stellen diese als R-Package zur Verfügung.
 
-Zunächst sind nur ggplot-Hintergründe im viadee-CI enthalten.
+Zunächst sind nur ggplot-Hintergründe im viadee-CI enthalten:
+
+![ExampleImage](https://github.com/fkoehne/viadeeDataViz/blob/master/demo/FireBackbground.png)
 
 # Installation
 Eine Installation von GitHub ist, wie folgt möglich:
